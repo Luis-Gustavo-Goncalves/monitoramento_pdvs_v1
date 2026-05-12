@@ -29,13 +29,24 @@ steps:
     displayName: "Configurar URL do backend"
 
   - task: Docker@2
-    displayName: "Build & Push imagem Docker Frontend"
+    displayName: "Build imagem Docker Frontend"
     inputs:
-      command: buildAndPush
+      command: build
       containerRegistry: "Nexus 3"
       repository: "$(repositoryName)"
       dockerfile: "frontend/Dockerfile"
       buildContext: "frontend"
+      arguments: "--build-arg VITE_API_URL=$(VITE_API_URL)"
+      tags: |
+        $(Build.BuildNumber)
+        latest
+
+  - task: Docker@2
+    displayName: "Push imagem Docker Frontend"
+    inputs:
+      command: push
+      containerRegistry: "Nexus 3"
+      repository: "$(repositoryName)"
       tags: |
         $(Build.BuildNumber)
         latest

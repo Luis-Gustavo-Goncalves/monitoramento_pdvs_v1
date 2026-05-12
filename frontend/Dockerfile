@@ -11,7 +11,7 @@ RUN npm install
 COPY . .
 
 # Variável de ambiente para apontar para o backend
-# Pode ser sobrescrita no docker-compose.yml
+# Local usa localhost; pipeline/docker-compose podem sobrescrever no build.
 ARG VITE_API_URL=http://localhost:8000
 ENV VITE_API_URL=$VITE_API_URL
 
