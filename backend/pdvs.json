@@ -1,0 +1,3266 @@
+[
+  {
+    "id": "pdv-1-114",
+    "nome": "1 - Carijos - pdv - 114",
+    "host": "192.168.2.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-115",
+    "nome": "1 - Carijos - pdv - 115",
+    "host": "192.168.2.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-116",
+    "nome": "1 - Carijos - pdv - 116",
+    "host": "192.168.2.116",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-117",
+    "nome": "1 - Carijos - pdv - 117",
+    "host": "192.168.2.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-118",
+    "nome": "1 - Carijos - pdv - 118",
+    "host": "192.168.2.118",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-119",
+    "nome": "1 - Carijos - pdv - 119",
+    "host": "192.168.2.119",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-120",
+    "nome": "1 - Carijos - pdv - 120",
+    "host": "192.168.2.120",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-1-122",
+    "nome": "1 - Carijos - pdv - 122",
+    "host": "192.168.2.122",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-111",
+    "nome": "2 - Loja 2 - pdv - 111",
+    "host": "192.168.3.211",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-113",
+    "nome": "2 - Loja 2 - pdv - 113",
+    "host": "192.168.3.213",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-114",
+    "nome": "2 - Loja 2 - pdv - 114",
+    "host": "192.168.3.214",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-115",
+    "nome": "2 - Loja 2 - pdv - 115",
+    "host": "192.168.3.215",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-117",
+    "nome": "2 - Loja 2 - pdv - 117",
+    "host": "192.168.3.217",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-118",
+    "nome": "2 - Loja 2 - pdv - 118",
+    "host": "192.168.3.218",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-2-120",
+    "nome": "2 - Loja 2 - pdv - 120",
+    "host": "192.168.3.220",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-3-109",
+    "nome": "3 - Loja 3 - pdv - 109",
+    "host": "192.168.4.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-3-110",
+    "nome": "3 - Loja 3 - pdv - 110",
+    "host": "192.168.4.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-3-112",
+    "nome": "3 - Loja 3 - pdv - 112",
+    "host": "192.168.4.112",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-3-114",
+    "nome": "3 - Loja 3 - pdv - 114",
+    "host": "192.168.4.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-3-117",
+    "nome": "3 - Loja 3 - pdv - 117",
+    "host": "192.168.4.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-115",
+    "nome": "4 - Loja 4 - pdv - 115",
+    "host": "192.168.40.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-116",
+    "nome": "4 - Loja 4 - pdv - 116",
+    "host": "192.168.40.116",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-117",
+    "nome": "4 - Loja 4 - pdv - 117",
+    "host": "192.168.40.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-118",
+    "nome": "4 - Loja 4 - pdv - 118",
+    "host": "192.168.40.118",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-120",
+    "nome": "4 - Loja 4 - pdv - 120",
+    "host": "192.168.40.120",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-123",
+    "nome": "4 - Loja 4 - pdv - 123",
+    "host": "192.168.40.123",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-4-124",
+    "nome": "4 - Loja 4 - pdv - 124",
+    "host": "192.168.40.124",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-5-115",
+    "nome": "5 - Loja 5 - pdv - 115",
+    "host": "192.168.205.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-5-120",
+    "nome": "5 - Loja 5 - pdv - 120",
+    "host": "192.168.205.120",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-5-121",
+    "nome": "5 - Loja 5 - pdv - 121",
+    "host": "192.168.205.121",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-5-122",
+    "nome": "5 - Loja 5 - pdv - 122",
+    "host": "192.168.205.122",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-5-123",
+    "nome": "5 - Loja 5 - pdv - 123",
+    "host": "192.168.205.123",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-110",
+    "nome": "6 - Loja 6 - pdv - 110",
+    "host": "192.168.5.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-111",
+    "nome": "6 - Loja 6 - pdv - 111",
+    "host": "192.168.5.111",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-112",
+    "nome": "6 - Loja 6 - pdv - 112",
+    "host": "192.168.5.112",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-113",
+    "nome": "6 - Loja 6 - pdv - 113",
+    "host": "192.168.5.113",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-114",
+    "nome": "6 - Loja 6 - pdv - 114",
+    "host": "192.168.5.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-115",
+    "nome": "6 - Loja 6 - pdv - 115",
+    "host": "192.168.5.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-116",
+    "nome": "6 - Loja 6 - pdv - 116",
+    "host": "192.168.5.116",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-118",
+    "nome": "6 - Loja 6 - pdv - 118",
+    "host": "192.168.5.118",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-119",
+    "nome": "6 - Loja 6 - pdv - 119",
+    "host": "192.168.5.119",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-120",
+    "nome": "6 - Loja 6 - pdv - 120",
+    "host": "192.168.5.120",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-121",
+    "nome": "6 - Loja 6 - pdv - 121",
+    "host": "192.168.5.121",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-6-122",
+    "nome": "6 - Loja 6 - pdv - 122",
+    "host": "192.168.5.122",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-7-117",
+    "nome": "7 - Loja 7 - pdv - 117",
+    "host": "192.168.6.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-7-119",
+    "nome": "7 - Loja 7 - pdv - 119",
+    "host": "192.168.6.119",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-7-122",
+    "nome": "7 - Loja 7 - pdv - 122",
+    "host": "192.168.6.122",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-7-123",
+    "nome": "7 - Loja 7 - pdv - 123",
+    "host": "192.168.6.123",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-7-124",
+    "nome": "7 - Loja 7 - pdv - 124",
+    "host": "192.168.6.124",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-8-112",
+    "nome": "8 - Loja 8 - pdv - 112",
+    "host": "192.168.8.112",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-8-113",
+    "nome": "8 - Loja 8 - pdv - 113",
+    "host": "192.168.8.113",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-8-114",
+    "nome": "8 - Loja 8 - pdv - 114",
+    "host": "192.168.8.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-8-115",
+    "nome": "8 - Loja 8 - pdv - 115",
+    "host": "192.168.8.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-8-116",
+    "nome": "8 - Loja 8 - pdv - 116",
+    "host": "192.168.8.116",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-8-117",
+    "nome": "8 - Loja 8 - pdv - 117",
+    "host": "192.168.8.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-9-106",
+    "nome": "9 - Loja 9 - pdv - 106",
+    "host": "192.168.9.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-9-107",
+    "nome": "9 - Loja 9 - pdv - 107",
+    "host": "192.168.9.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-9-109",
+    "nome": "9 - Loja 9 - pdv - 109",
+    "host": "192.168.9.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-9-111",
+    "nome": "9 - Loja 9 - pdv - 111",
+    "host": "192.168.9.111",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-9-112",
+    "nome": "9 - Loja 9 - pdv - 112",
+    "host": "192.168.9.112",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-12-101",
+    "nome": "12 - Venda Nova 2 - pdv - 101",
+    "host": "192.168.12.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-12-103",
+    "nome": "12 - Venda Nova 2 - pdv - 103",
+    "host": "192.168.12.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-12-106",
+    "nome": "12 - Venda Nova 2 - pdv - 106",
+    "host": "192.168.12.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-12-107",
+    "nome": "12 - Venda Nova 2 - pdv - 107",
+    "host": "192.168.12.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-12-108",
+    "nome": "12 - Venda Nova 2 - pdv - 108",
+    "host": "192.168.12.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-12-109",
+    "nome": "12 - Venda Nova 2 - pdv - 109",
+    "host": "192.168.12.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-101",
+    "nome": "13 - Betim - pdv - 101",
+    "host": "192.168.13.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-102",
+    "nome": "13 - Betim - pdv - 102",
+    "host": "192.168.13.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-103",
+    "nome": "13 - Betim - pdv - 103",
+    "host": "192.168.13.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-104",
+    "nome": "13 - Betim - pdv - 104",
+    "host": "192.168.13.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-106",
+    "nome": "13 - Betim - pdv - 106",
+    "host": "192.168.13.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-108",
+    "nome": "13 - Betim - pdv - 108",
+    "host": "192.168.13.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-109",
+    "nome": "13 - Betim - pdv - 109",
+    "host": "192.168.13.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-110",
+    "nome": "13 - Betim - pdv - 110",
+    "host": "192.168.13.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-111",
+    "nome": "13 - Betim - pdv - 111",
+    "host": "192.168.13.111",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-13-112",
+    "nome": "13 - Betim - pdv - 112",
+    "host": "192.168.13.112",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-14-101",
+    "nome": "14 - Curitiba - pdv - 101",
+    "host": "192.168.14.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-14-102",
+    "nome": "14 - Curitiba - pdv - 102",
+    "host": "192.168.14.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-14-103",
+    "nome": "14 - Curitiba - pdv - 103",
+    "host": "192.168.14.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-14-106",
+    "nome": "14 - Curitiba - pdv - 106",
+    "host": "192.168.14.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-15-104",
+    "nome": "15 - Parana 2 - pdv - 104",
+    "host": "192.168.15.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-15-105",
+    "nome": "15 - Parana 2 - pdv - 105",
+    "host": "192.168.15.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-15-106",
+    "nome": "15 - Parana 2 - pdv - 106",
+    "host": "192.168.15.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-15-107",
+    "nome": "15 - Parana 2 - pdv - 107",
+    "host": "192.168.15.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-16-102",
+    "nome": "16 - Loja 16 - pdv - 102",
+    "host": "192.168.16.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-16-103",
+    "nome": "16 - Loja 16 - pdv - 103",
+    "host": "192.168.16.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-16-104",
+    "nome": "16 - Loja 16 - pdv - 104",
+    "host": "192.168.16.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-16-105",
+    "nome": "16 - Loja 16 - pdv - 105",
+    "host": "192.168.16.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-16-106",
+    "nome": "16 - Loja 16 - pdv - 106",
+    "host": "192.168.16.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-17-102",
+    "nome": "17 - Loja 17 - pdv - 102",
+    "host": "192.168.7.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-17-104",
+    "nome": "17 - Loja 17 - pdv - 104",
+    "host": "192.168.7.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-17-105",
+    "nome": "17 - Loja 17 - pdv - 105",
+    "host": "192.168.7.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-17-107",
+    "nome": "17 - Loja 17 - pdv - 107",
+    "host": "192.168.7.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-101",
+    "nome": "18 - Loja 18 - pdv - 101",
+    "host": "192.168.18.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-102",
+    "nome": "18 - Loja 18 - pdv - 102",
+    "host": "192.168.18.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-103",
+    "nome": "18 - Loja 18 - pdv - 103",
+    "host": "192.168.18.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-104",
+    "nome": "18 - Loja 18 - pdv - 104",
+    "host": "192.168.18.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-105",
+    "nome": "18 - Loja 18 - pdv - 105",
+    "host": "192.168.18.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-106",
+    "nome": "18 - Loja 18 - pdv - 106",
+    "host": "192.168.18.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-18-107",
+    "nome": "18 - Loja 18 - pdv - 107",
+    "host": "192.168.18.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-19-101",
+    "nome": "19 - Loja 19 - pdv - 101",
+    "host": "192.168.19.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-19-102",
+    "nome": "19 - Loja 19 - pdv - 102",
+    "host": "192.168.19.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-19-103",
+    "nome": "19 - Loja 19 - pdv - 103",
+    "host": "192.168.19.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-19-104",
+    "nome": "19 - Loja 19 - pdv - 104",
+    "host": "192.168.19.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-19-105",
+    "nome": "19 - Loja 19 - pdv - 105",
+    "host": "192.168.19.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-20-102",
+    "nome": "20 - Loja 20 - pdv - 102",
+    "host": "192.168.20.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-20-103",
+    "nome": "20 - Loja 20 - pdv - 103",
+    "host": "192.168.20.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-20-104",
+    "nome": "20 - Loja 20 - pdv - 104",
+    "host": "192.168.20.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-20-105",
+    "nome": "20 - Loja 20 - pdv - 105",
+    "host": "192.168.20.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-20-106",
+    "nome": "20 - Loja 20 - pdv - 106",
+    "host": "192.168.20.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-101",
+    "nome": "22 - Loja 22 - pdv - 101",
+    "host": "192.168.22.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-102",
+    "nome": "22 - Loja 22 - pdv - 102",
+    "host": "192.168.22.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-103",
+    "nome": "22 - Loja 22 - pdv - 103",
+    "host": "192.168.22.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-104",
+    "nome": "22 - Loja 22 - pdv - 104",
+    "host": "192.168.22.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-105",
+    "nome": "22 - Loja 22 - pdv - 105",
+    "host": "192.168.22.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-106",
+    "nome": "22 - Loja 22 - pdv - 106",
+    "host": "192.168.22.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-107",
+    "nome": "22 - Loja 22 - pdv - 107",
+    "host": "192.168.22.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-109",
+    "nome": "22 - Loja 22 - pdv - 109",
+    "host": "192.168.22.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-22-110",
+    "nome": "22 - Loja 22 - pdv - 110",
+    "host": "192.168.22.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-23-101",
+    "nome": "23 - Loja 23 - pdv - 101",
+    "host": "192.168.23.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-23-102",
+    "nome": "23 - Loja 23 - pdv - 102",
+    "host": "192.168.23.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-23-103",
+    "nome": "23 - Loja 23 - pdv - 103",
+    "host": "192.168.23.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-23-104",
+    "nome": "23 - Loja 23 - pdv - 104",
+    "host": "192.168.23.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-101",
+    "nome": "24 - Loja 24 - pdv - 101",
+    "host": "192.168.24.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-102",
+    "nome": "24 - Loja 24 - pdv - 102",
+    "host": "192.168.24.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-103",
+    "nome": "24 - Loja 24 - pdv - 103",
+    "host": "192.168.24.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-104",
+    "nome": "24 - Loja 24 - pdv - 104",
+    "host": "192.168.24.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-106",
+    "nome": "24 - Loja 24 - pdv - 106",
+    "host": "192.168.24.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-107",
+    "nome": "24 - Loja 24 - pdv - 107",
+    "host": "192.168.24.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-108",
+    "nome": "24 - Loja 24 - pdv - 108",
+    "host": "192.168.24.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-24-110",
+    "nome": "24 - Loja 24 - pdv - 110",
+    "host": "192.168.24.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-25-101",
+    "nome": "25 - Loja 25 - pdv - 101",
+    "host": "192.168.25.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-25-102",
+    "nome": "25 - Loja 25 - pdv - 102",
+    "host": "192.168.25.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-25-103",
+    "nome": "25 - Loja 25 - pdv - 103",
+    "host": "192.168.25.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-25-104",
+    "nome": "25 - Loja 25 - pdv - 104",
+    "host": "192.168.25.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-25-105",
+    "nome": "25 - Loja 25 - pdv - 105",
+    "host": "192.168.25.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-26-101",
+    "nome": "26 - Loja 26 - pdv - 101",
+    "host": "192.168.26.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-26-102",
+    "nome": "26 - Loja 26 - pdv - 102",
+    "host": "192.168.26.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-26-103",
+    "nome": "26 - Loja 26 - pdv - 103",
+    "host": "192.168.26.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-26-104",
+    "nome": "26 - Loja 26 - pdv - 104",
+    "host": "192.168.26.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-26-105",
+    "nome": "26 - Loja 26 - pdv - 105",
+    "host": "192.168.26.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-26-106",
+    "nome": "26 - Loja 26 - pdv - 106",
+    "host": "192.168.26.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-27-102",
+    "nome": "27 - Loja 27 - pdv - 102",
+    "host": "192.168.27.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-27-103",
+    "nome": "27 - Loja 27 - pdv - 103",
+    "host": "192.168.27.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-27-104",
+    "nome": "27 - Loja 27 - pdv - 104",
+    "host": "192.168.27.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-27-105",
+    "nome": "27 - Loja 27 - pdv - 105",
+    "host": "192.168.27.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-27-106",
+    "nome": "27 - Loja 27 - pdv - 106",
+    "host": "192.168.27.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-27-108",
+    "nome": "27 - Loja 27 - pdv - 108",
+    "host": "192.168.27.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-28-101",
+    "nome": "28 - Loja 28 - pdv - 101",
+    "host": "192.168.28.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-28-102",
+    "nome": "28 - Loja 28 - pdv - 102",
+    "host": "192.168.28.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-28-103",
+    "nome": "28 - Loja 28 - pdv - 103",
+    "host": "192.168.28.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-28-105",
+    "nome": "28 - Loja 28 - pdv - 105",
+    "host": "192.168.28.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-28-106",
+    "nome": "28 - Loja 28 - pdv - 106",
+    "host": "192.168.28.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-30-102",
+    "nome": "30 - Loja 30 - pdv - 102",
+    "host": "192.168.30.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-30-103",
+    "nome": "30 - Loja 30 - pdv - 103",
+    "host": "192.168.30.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-30-104",
+    "nome": "30 - Loja 30 - pdv - 104",
+    "host": "192.168.30.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-30-105",
+    "nome": "30 - Loja 30 - pdv - 105",
+    "host": "192.168.30.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-31-101",
+    "nome": "31 - Loja 31 - pdv - 101",
+    "host": "192.168.31.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-31-102",
+    "nome": "31 - Loja 31 - pdv - 102",
+    "host": "192.168.31.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-31-103",
+    "nome": "31 - Loja 31 - pdv - 103",
+    "host": "192.168.31.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-31-104",
+    "nome": "31 - Loja 31 - pdv - 104",
+    "host": "192.168.31.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-31-106",
+    "nome": "31 - Loja 31 - pdv - 106",
+    "host": "192.168.31.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-32-101",
+    "nome": "32 - Loja 32 - pdv - 101",
+    "host": "192.168.32.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-32-102",
+    "nome": "32 - Loja 32 - pdv - 102",
+    "host": "192.168.32.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-32-103",
+    "nome": "32 - Loja 32 - pdv - 103",
+    "host": "192.168.32.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-32-104",
+    "nome": "32 - Loja 32 - pdv - 104",
+    "host": "192.168.32.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-32-105",
+    "nome": "32 - Loja 32 - pdv - 105",
+    "host": "192.168.32.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-32-106",
+    "nome": "32 - Loja 32 - pdv - 106",
+    "host": "192.168.32.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-33-101",
+    "nome": "33 - Loja 33 - pdv - 101",
+    "host": "192.168.33.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-33-102",
+    "nome": "33 - Loja 33 - pdv - 102",
+    "host": "192.168.33.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-33-103",
+    "nome": "33 - Loja 33 - pdv - 103",
+    "host": "192.168.33.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-33-104",
+    "nome": "33 - Loja 33 - pdv - 104",
+    "host": "192.168.33.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-33-105",
+    "nome": "33 - Loja 33 - pdv - 105",
+    "host": "192.168.33.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-35-101",
+    "nome": "35 - Loja 35 - pdv - 101",
+    "host": "192.168.35.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-35-102",
+    "nome": "35 - Loja 35 - pdv - 102",
+    "host": "192.168.35.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-35-103",
+    "nome": "35 - Loja 35 - pdv - 103",
+    "host": "192.168.35.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-35-104",
+    "nome": "35 - Loja 35 - pdv - 104",
+    "host": "192.168.35.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-35-105",
+    "nome": "35 - Loja 35 - pdv - 105",
+    "host": "192.168.35.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-35-106",
+    "nome": "35 - Loja 35 - pdv - 106",
+    "host": "192.168.35.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-37-101",
+    "nome": "37 - Loja 37 - pdv - 101",
+    "host": "192.168.37.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-37-102",
+    "nome": "37 - Loja 37 - pdv - 102",
+    "host": "192.168.37.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-37-103",
+    "nome": "37 - Loja 37 - pdv - 103",
+    "host": "192.168.37.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-37-104",
+    "nome": "37 - Loja 37 - pdv - 104",
+    "host": "192.168.37.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-37-105",
+    "nome": "37 - Loja 37 - pdv - 105",
+    "host": "192.168.37.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-37-106",
+    "nome": "37 - Loja 37 - pdv - 106",
+    "host": "192.168.37.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-38-101",
+    "nome": "38 - Loja 38 - pdv - 101",
+    "host": "192.168.38.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-38-102",
+    "nome": "38 - Loja 38 - pdv - 102",
+    "host": "192.168.38.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-38-103",
+    "nome": "38 - Loja 38 - pdv - 103",
+    "host": "192.168.38.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-38-104",
+    "nome": "38 - Loja 38 - pdv - 104",
+    "host": "192.168.38.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-38-105",
+    "nome": "38 - Loja 38 - pdv - 105",
+    "host": "192.168.38.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-39-103",
+    "nome": "39 - Loja 39 - pdv - 103",
+    "host": "192.168.39.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-39-104",
+    "nome": "39 - Loja 39 - pdv - 104",
+    "host": "192.168.39.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-39-105",
+    "nome": "39 - Loja 39 - pdv - 105",
+    "host": "192.168.39.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-39-106",
+    "nome": "39 - Loja 39 - pdv - 106",
+    "host": "192.168.39.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-101",
+    "nome": "40 - Loja 40 - pdv - 101",
+    "host": "192.168.140.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-102",
+    "nome": "40 - Loja 40 - pdv - 102",
+    "host": "192.168.140.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-103",
+    "nome": "40 - Loja 40 - pdv - 103",
+    "host": "192.168.140.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-104",
+    "nome": "40 - Loja 40 - pdv - 104",
+    "host": "192.168.140.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-105",
+    "nome": "40 - Loja 40 - pdv - 105",
+    "host": "192.168.140.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-106",
+    "nome": "40 - Loja 40 - pdv - 106",
+    "host": "192.168.140.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-107",
+    "nome": "40 - Loja 40 - pdv - 107",
+    "host": "192.168.140.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-40-108",
+    "nome": "40 - Loja 40 - pdv - 108",
+    "host": "192.168.140.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-41-103",
+    "nome": "41 - Loja 41 - pdv - 103",
+    "host": "192.168.41.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-41-105",
+    "nome": "41 - Loja 41 - pdv - 105",
+    "host": "192.168.41.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-41-107",
+    "nome": "41 - Loja 41 - pdv - 107",
+    "host": "192.168.41.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-41-108",
+    "nome": "41 - Loja 41 - pdv - 108",
+    "host": "192.168.41.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-41-109",
+    "nome": "41 - Loja 41 - pdv - 109",
+    "host": "192.168.41.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-41-110",
+    "nome": "41 - Loja 41 - pdv - 110",
+    "host": "192.168.41.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-42-101",
+    "nome": "42 - Loja 42 - pdv - 101",
+    "host": "192.168.42.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-42-102",
+    "nome": "42 - Loja 42 - pdv - 102",
+    "host": "192.168.42.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-42-103",
+    "nome": "42 - Loja 42 - pdv - 103",
+    "host": "192.168.42.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-42-104",
+    "nome": "42 - Loja 42 - pdv - 104",
+    "host": "192.168.42.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-42-105",
+    "nome": "42 - Loja 42 - pdv - 105",
+    "host": "192.168.42.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-42-106",
+    "nome": "42 - Loja 42 - pdv - 106",
+    "host": "192.168.42.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-43-102",
+    "nome": "43 - Loja 43 - pdv - 102",
+    "host": "192.168.43.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-43-103",
+    "nome": "43 - Loja 43 - pdv - 103",
+    "host": "192.168.43.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-43-104",
+    "nome": "43 - Loja 43 - pdv - 104",
+    "host": "192.168.43.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-43-105",
+    "nome": "43 - Loja 43 - pdv - 105",
+    "host": "192.168.43.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-44-101",
+    "nome": "44 - Loja 44 - pdv - 101",
+    "host": "192.168.44.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-44-102",
+    "nome": "44 - Loja 44 - pdv - 102",
+    "host": "192.168.44.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-44-103",
+    "nome": "44 - Loja 44 - pdv - 103",
+    "host": "192.168.44.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-44-104",
+    "nome": "44 - Loja 44 - pdv - 104",
+    "host": "192.168.44.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-45-101",
+    "nome": "45 - Loja 45 - pdv - 101",
+    "host": "192.168.45.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-45-102",
+    "nome": "45 - Loja 45 - pdv - 102",
+    "host": "192.168.45.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-45-103",
+    "nome": "45 - Loja 45 - pdv - 103",
+    "host": "192.168.45.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-45-104",
+    "nome": "45 - Loja 45 - pdv - 104",
+    "host": "192.168.45.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-45-105",
+    "nome": "45 - Loja 45 - pdv - 105",
+    "host": "192.168.45.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-47-102",
+    "nome": "47 - Loja 47 - pdv - 102",
+    "host": "192.168.47.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-47-103",
+    "nome": "47 - Loja 47 - pdv - 103",
+    "host": "192.168.47.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-47-104",
+    "nome": "47 - Loja 47 - pdv - 104",
+    "host": "192.168.47.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-47-105",
+    "nome": "47 - Loja 47 - pdv - 105",
+    "host": "192.168.47.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-47-106",
+    "nome": "47 - Loja 47 - pdv - 106",
+    "host": "192.168.47.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-49-101",
+    "nome": "49 - Loja 49 - pdv - 101",
+    "host": "192.168.49.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-49-102",
+    "nome": "49 - Loja 49 - pdv - 102",
+    "host": "192.168.49.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-49-103",
+    "nome": "49 - Loja 49 - pdv - 103",
+    "host": "192.168.49.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-49-104",
+    "nome": "49 - Loja 49 - pdv - 104",
+    "host": "192.168.49.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-49-105",
+    "nome": "49 - Loja 49 - pdv - 105",
+    "host": "192.168.49.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-49-106",
+    "nome": "49 - Loja 49 - pdv - 106",
+    "host": "192.168.49.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-114",
+    "nome": "50 - Loja 50 - pdv - 114",
+    "host": "192.168.50.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-115",
+    "nome": "50 - Loja 50 - pdv - 115",
+    "host": "192.168.50.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-116",
+    "nome": "50 - Loja 50 - pdv - 116",
+    "host": "192.168.50.116",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-117",
+    "nome": "50 - Loja 50 - pdv - 117",
+    "host": "192.168.50.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-118",
+    "nome": "50 - Loja 50 - pdv - 118",
+    "host": "192.168.50.118",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-119",
+    "nome": "50 - Loja 50 - pdv - 119",
+    "host": "192.168.50.119",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-50-120",
+    "nome": "50 - Loja 50 - pdv - 120",
+    "host": "192.168.50.120",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-52-110",
+    "nome": "52 - Loja 52 - pdv - 110",
+    "host": "192.168.11.110",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-52-111",
+    "nome": "52 - Loja 52 - pdv - 111",
+    "host": "192.168.11.111",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-52-112",
+    "nome": "52 - Loja 52 - pdv - 112",
+    "host": "192.168.11.112",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-52-113",
+    "nome": "52 - Loja 52 - pdv - 113",
+    "host": "192.168.11.113",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-52-114",
+    "nome": "52 - Loja 52 - pdv - 114",
+    "host": "192.168.11.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-52-115",
+    "nome": "52 - Loja 52 - pdv - 115",
+    "host": "192.168.11.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-113",
+    "nome": "53 - Loja 53 - pdv - 113",
+    "host": "10.1.27.113",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-114",
+    "nome": "53 - Loja 53 - pdv - 114",
+    "host": "10.1.27.114",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-115",
+    "nome": "53 - Loja 53 - pdv - 115",
+    "host": "10.1.27.115",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-116",
+    "nome": "53 - Loja 53 - pdv - 116",
+    "host": "10.1.27.116",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-117",
+    "nome": "53 - Loja 53 - pdv - 117",
+    "host": "10.1.27.117",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-118",
+    "nome": "53 - Loja 53 - pdv - 118",
+    "host": "10.1.27.118",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-120",
+    "nome": "53 - Loja 53 - pdv - 120",
+    "host": "10.1.27.120",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-53-121",
+    "nome": "53 - Loja 53 - pdv - 121",
+    "host": "10.1.27.121",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-54-102",
+    "nome": "54 - Loja 54 - pdv - 102",
+    "host": "192.168.54.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-54-103",
+    "nome": "54 - Loja 54 - pdv - 103",
+    "host": "192.168.54.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-54-104",
+    "nome": "54 - Loja 54 - pdv - 104",
+    "host": "192.168.54.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-54-106",
+    "nome": "54 - Loja 54 - pdv - 106",
+    "host": "192.168.54.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-54-107",
+    "nome": "54 - Loja 54 - pdv - 107",
+    "host": "192.168.54.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-54-109",
+    "nome": "54 - Loja 54 - pdv - 109",
+    "host": "192.168.54.109",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-55-101",
+    "nome": "55 - Loja 55 - pdv - 101",
+    "host": "192.168.55.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-55-102",
+    "nome": "55 - Loja 55 - pdv - 102",
+    "host": "192.168.55.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-55-103",
+    "nome": "55 - Loja 55 - pdv - 103",
+    "host": "192.168.55.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-55-104",
+    "nome": "55 - Loja 55 - pdv - 104",
+    "host": "192.168.55.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-56-102",
+    "nome": "56 - Loja 56 - pdv - 102",
+    "host": "192.168.56.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-56-104",
+    "nome": "56 - Loja 56 - pdv - 104",
+    "host": "192.168.56.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-56-105",
+    "nome": "56 - Loja 56 - pdv - 105",
+    "host": "192.168.56.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-56-106",
+    "nome": "56 - Loja 56 - pdv - 106",
+    "host": "192.168.56.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-56-107",
+    "nome": "56 - Loja 56 - pdv - 107",
+    "host": "192.168.56.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-56-108",
+    "nome": "56 - Loja 56 - pdv - 108",
+    "host": "192.168.56.108",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-57-102",
+    "nome": "57 - Loja 57 - pdv - 102",
+    "host": "192.168.57.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-57-103",
+    "nome": "57 - Loja 57 - pdv - 103",
+    "host": "192.168.57.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-57-104",
+    "nome": "57 - Loja 57 - pdv - 104",
+    "host": "192.168.57.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-57-105",
+    "nome": "57 - Loja 57 - pdv - 105",
+    "host": "192.168.57.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-57-106",
+    "nome": "57 - Loja 57 - pdv - 106",
+    "host": "192.168.57.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-58-101",
+    "nome": "58 - Loja 58 - pdv - 101",
+    "host": "192.168.58.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-58-102",
+    "nome": "58 - Loja 58 - pdv - 102",
+    "host": "192.168.58.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-58-103",
+    "nome": "58 - Loja 58 - pdv - 103",
+    "host": "192.168.58.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-58-104",
+    "nome": "58 - Loja 58 - pdv - 104",
+    "host": "192.168.58.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-58-105",
+    "nome": "58 - Loja 58 - pdv - 105",
+    "host": "192.168.58.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-59-103",
+    "nome": "59 - Loja 59 - pdv - 103",
+    "host": "192.168.59.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-59-104",
+    "nome": "59 - Loja 59 - pdv - 104",
+    "host": "192.168.59.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-59-105",
+    "nome": "59 - Loja 59 - pdv - 105",
+    "host": "192.168.59.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-59-106",
+    "nome": "59 - Loja 59 - pdv - 106",
+    "host": "192.168.59.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-59-107",
+    "nome": "59 - Loja 59 - pdv - 107",
+    "host": "192.168.59.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-60-101",
+    "nome": "60 - Loja 60 - pdv - 101",
+    "host": "192.168.60.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-60-102",
+    "nome": "60 - Loja 60 - pdv - 102",
+    "host": "192.168.60.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-60-103",
+    "nome": "60 - Loja 60 - pdv - 103",
+    "host": "192.168.60.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-60-104",
+    "nome": "60 - Loja 60 - pdv - 104",
+    "host": "192.168.60.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-60-105",
+    "nome": "60 - Loja 60 - pdv - 105",
+    "host": "192.168.60.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-61-101",
+    "nome": "61 - Loja 61 - pdv - 101",
+    "host": "192.168.61.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-61-102",
+    "nome": "61 - Loja 61 - pdv - 102",
+    "host": "192.168.61.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-61-104",
+    "nome": "61 - Loja 61 - pdv - 104",
+    "host": "192.168.61.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-61-107",
+    "nome": "61 - Loja 61 - pdv - 107",
+    "host": "192.168.61.107",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-62-101",
+    "nome": "62 - Loja 62 - pdv - 101",
+    "host": "192.168.62.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-62-102",
+    "nome": "62 - Loja 62 - pdv - 102",
+    "host": "192.168.62.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-62-103",
+    "nome": "62 - Loja 62 - pdv - 103",
+    "host": "192.168.62.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-62-104",
+    "nome": "62 - Loja 62 - pdv - 104",
+    "host": "192.168.62.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-63-101",
+    "nome": "63 - Loja 63 - pdv - 101",
+    "host": "192.168.63.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-63-102",
+    "nome": "63 - Loja 63 - pdv - 102",
+    "host": "192.168.63.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-63-103",
+    "nome": "63 - Loja 63 - pdv - 103",
+    "host": "192.168.63.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-63-104",
+    "nome": "63 - Loja 63 - pdv - 104",
+    "host": "192.168.63.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-63-105",
+    "nome": "63 - Loja 63 - pdv - 105",
+    "host": "192.168.63.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-63-106",
+    "nome": "63 - Loja 63 - pdv - 106",
+    "host": "192.168.63.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-64-001",
+    "nome": "64 - Loja 64 - pdv - 1",
+    "host": "192.168.64.1",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-64-002",
+    "nome": "64 - Loja 64 - pdv - 2",
+    "host": "192.168.64.2",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-64-003",
+    "nome": "64 - Loja 64 - pdv - 3",
+    "host": "192.168.64.3",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-64-004",
+    "nome": "64 - Loja 64 - pdv - 4",
+    "host": "192.168.64.4",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-65-001",
+    "nome": "65 - Loja 65 - pdv - 1",
+    "host": "192.168.65.1",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-65-002",
+    "nome": "65 - Loja 65 - pdv - 2",
+    "host": "192.168.65.2",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-65-003",
+    "nome": "65 - Loja 65 - pdv - 3",
+    "host": "192.168.65.3",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-65-004",
+    "nome": "65 - Loja 65 - pdv - 4",
+    "host": "192.168.65.4",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-67-101",
+    "nome": "67 - Loja 67 - pdv - 101",
+    "host": "192.168.67.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-67-102",
+    "nome": "67 - Loja 67 - pdv - 102",
+    "host": "192.168.67.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-67-103",
+    "nome": "67 - Loja 67 - pdv - 103",
+    "host": "192.168.67.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-67-104",
+    "nome": "67 - Loja 67 - pdv - 104",
+    "host": "192.168.67.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-68-101",
+    "nome": "68 - Loja 68 - pdv - 101",
+    "host": "192.168.68.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-68-102",
+    "nome": "68 - Loja 68 - pdv - 102",
+    "host": "192.168.68.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-68-103",
+    "nome": "68 - Loja 68 - pdv - 103",
+    "host": "192.168.68.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-68-104",
+    "nome": "68 - Loja 68 - pdv - 104",
+    "host": "192.168.68.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-69-101",
+    "nome": "69 - Loja 69 - pdv - 101",
+    "host": "192.168.69.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-69-102",
+    "nome": "69 - Loja 69 - pdv - 102",
+    "host": "192.168.69.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-69-103",
+    "nome": "69 - Loja 69 - pdv - 103",
+    "host": "192.168.69.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-69-104",
+    "nome": "69 - Loja 69 - pdv - 104",
+    "host": "192.168.69.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-69-105",
+    "nome": "69 - Loja 69 - pdv - 105",
+    "host": "192.168.69.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-70-101",
+    "nome": "70 - Loja 70 - pdv - 101",
+    "host": "192.168.70.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-70-102",
+    "nome": "70 - Loja 70 - pdv - 102",
+    "host": "192.168.70.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-70-103",
+    "nome": "70 - Loja 70 - pdv - 103",
+    "host": "192.168.70.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-70-104",
+    "nome": "70 - Loja 70 - pdv - 104",
+    "host": "192.168.70.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-70-105",
+    "nome": "70 - Loja 70 - pdv - 105",
+    "host": "192.168.70.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-71-101",
+    "nome": "71 - Loja 71 - pdv - 101",
+    "host": "192.168.71.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-71-102",
+    "nome": "71 - Loja 71 - pdv - 102",
+    "host": "192.168.71.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-71-103",
+    "nome": "71 - Loja 71 - pdv - 103",
+    "host": "192.168.71.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-71-104",
+    "nome": "71 - Loja 71 - pdv - 104",
+    "host": "192.168.71.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-72-101",
+    "nome": "72 - Loja 72 - pdv - 101",
+    "host": "192.168.72.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-72-102",
+    "nome": "72 - Loja 72 - pdv - 102",
+    "host": "192.168.72.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-72-103",
+    "nome": "72 - Loja 72 - pdv - 103",
+    "host": "192.168.72.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-72-104",
+    "nome": "72 - Loja 72 - pdv - 104",
+    "host": "192.168.72.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-73-101",
+    "nome": "73 - Loja 73 - pdv - 101",
+    "host": "192.168.73.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-73-102",
+    "nome": "73 - Loja 73 - pdv - 102",
+    "host": "192.168.73.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-73-103",
+    "nome": "73 - Loja 73 - pdv - 103",
+    "host": "192.168.73.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-73-104",
+    "nome": "73 - Loja 73 - pdv - 104",
+    "host": "192.168.73.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-74-102",
+    "nome": "74 - Loja 74 - pdv - 102",
+    "host": "192.168.74.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-74-103",
+    "nome": "74 - Loja 74 - pdv - 103",
+    "host": "192.168.74.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-74-104",
+    "nome": "74 - Loja 74 - pdv - 104",
+    "host": "192.168.74.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-74-105",
+    "nome": "74 - Loja 74 - pdv - 105",
+    "host": "192.168.74.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-74-106",
+    "nome": "74 - Loja 74 - pdv - 106",
+    "host": "192.168.74.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-75-101",
+    "nome": "75 - Loja 75 - pdv - 101",
+    "host": "192.168.75.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-75-102",
+    "nome": "75 - Loja 75 - pdv - 102",
+    "host": "192.168.75.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-75-103",
+    "nome": "75 - Loja 75 - pdv - 103",
+    "host": "192.168.75.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-75-104",
+    "nome": "75 - Loja 75 - pdv - 104",
+    "host": "192.168.75.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-75-105",
+    "nome": "75 - Loja 75 - pdv - 105",
+    "host": "192.168.75.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-76-101",
+    "nome": "76 - Loja 76 - pdv - 101",
+    "host": "192.168.76.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-76-102",
+    "nome": "76 - Loja 76 - pdv - 102",
+    "host": "192.168.76.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-76-103",
+    "nome": "76 - Loja 76 - pdv - 103",
+    "host": "192.168.76.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-76-105",
+    "nome": "76 - Loja 76 - pdv - 105",
+    "host": "192.168.76.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-77-101",
+    "nome": "77 - Loja 77 - pdv - 101",
+    "host": "192.168.77.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-77-102",
+    "nome": "77 - Loja 77 - pdv - 102",
+    "host": "192.168.77.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-77-103",
+    "nome": "77 - Loja 77 - pdv - 103",
+    "host": "192.168.77.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-77-105",
+    "nome": "77 - Loja 77 - pdv - 105",
+    "host": "192.168.77.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-78-101",
+    "nome": "78 - Loja 78 - pdv - 101",
+    "host": "192.168.78.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-78-102",
+    "nome": "78 - Loja 78 - pdv - 102",
+    "host": "192.168.78.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-78-104",
+    "nome": "78 - Loja 78 - pdv - 104",
+    "host": "192.168.78.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-79-101",
+    "nome": "79 - Loja 79 - pdv - 101",
+    "host": "192.168.79.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-79-102",
+    "nome": "79 - Loja 79 - pdv - 102",
+    "host": "192.168.79.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-79-103",
+    "nome": "79 - Loja 79 - pdv - 103",
+    "host": "192.168.79.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-79-104",
+    "nome": "79 - Loja 79 - pdv - 104",
+    "host": "192.168.79.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-80-101",
+    "nome": "80 - Loja 80 - pdv - 101",
+    "host": "192.168.80.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-80-102",
+    "nome": "80 - Loja 80 - pdv - 102",
+    "host": "192.168.80.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-80-103",
+    "nome": "80 - Loja 80 - pdv - 103",
+    "host": "192.168.80.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-80-104",
+    "nome": "80 - Loja 80 - pdv - 104",
+    "host": "192.168.80.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-85-101",
+    "nome": "85 - Loja 85 - pdv - 101",
+    "host": "192.168.85.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-85-102",
+    "nome": "85 - Loja 85 - pdv - 102",
+    "host": "192.168.85.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-85-103",
+    "nome": "85 - Loja 85 - pdv - 103",
+    "host": "192.168.85.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-85-104",
+    "nome": "85 - Loja 85 - pdv - 104",
+    "host": "192.168.85.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-86-101",
+    "nome": "86 - Loja 86 - pdv - 101",
+    "host": "192.168.86.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-86-102",
+    "nome": "86 - Loja 86 - pdv - 102",
+    "host": "192.168.86.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-86-103",
+    "nome": "86 - Loja 86 - pdv - 103",
+    "host": "192.168.86.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-87-101",
+    "nome": "87 - Loja 87 - pdv - 101",
+    "host": "192.168.87.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-87-102",
+    "nome": "87 - Loja 87 - pdv - 102",
+    "host": "192.168.87.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-87-103",
+    "nome": "87 - Loja 87 - pdv - 103",
+    "host": "192.168.87.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-87-104",
+    "nome": "87 - Loja 87 - pdv - 104",
+    "host": "192.168.87.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-89-101",
+    "nome": "89 - Loja 89 - pdv - 101",
+    "host": "192.168.89.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-89-102",
+    "nome": "89 - Loja 89 - pdv - 102",
+    "host": "192.168.89.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-89-103",
+    "nome": "89 - Loja 89 - pdv - 103",
+    "host": "192.168.89.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-89-104",
+    "nome": "89 - Loja 89 - pdv - 104",
+    "host": "192.168.89.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-94-101",
+    "nome": "94 - Loja 94 - pdv - 101",
+    "host": "192.168.94.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-94-102",
+    "nome": "94 - Loja 94 - pdv - 102",
+    "host": "192.168.94.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-94-103",
+    "nome": "94 - Loja 94 - pdv - 103",
+    "host": "192.168.94.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-94-104",
+    "nome": "94 - Loja 94 - pdv - 104",
+    "host": "192.168.94.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-94-105",
+    "nome": "94 - Loja 94 - pdv - 105",
+    "host": "192.168.94.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-94-106",
+    "nome": "94 - Loja 94 - pdv - 106",
+    "host": "192.168.94.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-95-101",
+    "nome": "95 - Loja 95 - pdv - 101",
+    "host": "192.168.95.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-95-102",
+    "nome": "95 - Loja 95 - pdv - 102",
+    "host": "192.168.95.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-95-103",
+    "nome": "95 - Loja 95 - pdv - 103",
+    "host": "192.168.95.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-95-104",
+    "nome": "95 - Loja 95 - pdv - 104",
+    "host": "192.168.95.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-96-101",
+    "nome": "96 - Loja 96 - pdv - 101",
+    "host": "192.168.96.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-96-102",
+    "nome": "96 - Loja 96 - pdv - 102",
+    "host": "192.168.96.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-96-103",
+    "nome": "96 - Loja 96 - pdv - 103",
+    "host": "192.168.96.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-96-104",
+    "nome": "96 - Loja 96 - pdv - 104",
+    "host": "192.168.96.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-96-105",
+    "nome": "96 - Loja 96 - pdv - 105",
+    "host": "192.168.96.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-96-106",
+    "nome": "96 - Loja 96 - pdv - 106",
+    "host": "192.168.96.106",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-97-101",
+    "nome": "97 - Loja 97 - pdv - 101",
+    "host": "192.168.97.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-97-102",
+    "nome": "97 - Loja 97 - pdv - 102",
+    "host": "192.168.97.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-97-103",
+    "nome": "97 - Loja 97 - pdv - 103",
+    "host": "192.168.97.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-97-104",
+    "nome": "97 - Loja 97 - pdv - 104",
+    "host": "192.168.97.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-97-105",
+    "nome": "97 - Loja 97 - pdv - 105",
+    "host": "192.168.97.105",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-100-101",
+    "nome": "100 - E-commerce - pdv - 101",
+    "host": "192.168.100.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-104-101",
+    "nome": "104 - Divinopolis 2 - pdv - 101",
+    "host": "192.168.104.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-104-102",
+    "nome": "104 - Divinopolis 2 - pdv - 102",
+    "host": "192.168.104.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-104-103",
+    "nome": "104 - Divinopolis 2 - pdv - 103",
+    "host": "192.168.104.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-104-104",
+    "nome": "104 - Divinopolis 2 - pdv - 104",
+    "host": "192.168.104.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-105-102",
+    "nome": "105 - Jardim Alterosa - pdv - 102",
+    "host": "192.168.105.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-105-103",
+    "nome": "105 - Jardim Alterosa - pdv - 103",
+    "host": "192.168.105.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-105-104",
+    "nome": "105 - Jardim Alterosa - pdv - 104",
+    "host": "192.168.105.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-107-101",
+    "nome": "107 - Via Shopping - pdv - 101",
+    "host": "192.168.107.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-107-102",
+    "nome": "107 - Via Shopping - pdv - 102",
+    "host": "192.168.107.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-107-103",
+    "nome": "107 - Via Shopping - pdv - 103",
+    "host": "192.168.107.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-107-104",
+    "nome": "107 - Via Shopping - pdv - 104",
+    "host": "192.168.107.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-108-101",
+    "nome": "108 - Vespasiano - pdv - 101",
+    "host": "192.168.108.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-108-102",
+    "nome": "108 - Vespasiano - pdv - 102",
+    "host": "192.168.108.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-108-103",
+    "nome": "108 - Vespasiano - pdv - 103",
+    "host": "192.168.108.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-108-104",
+    "nome": "108 - Vespasiano - pdv - 104",
+    "host": "192.168.108.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-109-101",
+    "nome": "109 - Lagoa Santa 2 - pdv - 101",
+    "host": "192.168.109.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-109-102",
+    "nome": "109 - Lagoa Santa 2 - pdv - 102",
+    "host": "192.168.109.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-109-103",
+    "nome": "109 - Lagoa Santa 2 - pdv - 103",
+    "host": "192.168.109.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-109-104",
+    "nome": "109 - Lagoa Santa 2 - pdv - 104",
+    "host": "192.168.109.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-110-101",
+    "nome": "110 - Palmeiras - pdv - 101",
+    "host": "192.168.110.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-110-102",
+    "nome": "110 - Palmeiras - pdv - 102",
+    "host": "192.168.110.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-110-103",
+    "nome": "110 - Palmeiras - pdv - 103",
+    "host": "192.168.110.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-110-104",
+    "nome": "110 - Palmeiras - pdv - 104",
+    "host": "192.168.110.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-111-101",
+    "nome": "111 - Barro Preto 2 - pdv - 101",
+    "host": "192.168.111.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-111-102",
+    "nome": "111 - Barro Preto 2 - pdv - 102",
+    "host": "192.168.111.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-111-103",
+    "nome": "111 - Barro Preto 2 - pdv - 103",
+    "host": "192.168.111.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-111-104",
+    "nome": "111 - Barro Preto 2 - pdv - 104",
+    "host": "192.168.111.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-113-101",
+    "nome": "113 - Padre Eustaquio - pdv - 101",
+    "host": "192.168.113.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-113-102",
+    "nome": "113 - Padre Eustaquio - pdv - 102",
+    "host": "192.168.113.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-113-103",
+    "nome": "113 - Padre Eustaquio - pdv - 103",
+    "host": "192.168.113.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-113-104",
+    "nome": "113 - Padre Eustaquio - pdv - 104",
+    "host": "192.168.113.104",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-114-101",
+    "nome": "114 - Ressaca - pdv - 101",
+    "host": "192.168.114.101",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-114-102",
+    "nome": "114 - Ressaca - pdv - 102",
+    "host": "192.168.114.102",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "pdv-114-103",
+    "nome": "114 - Ressaca - pdv - 103",
+    "host": "192.168.114.103",
+    "usuario": "root",
+    "senha": "root"
+  },
+  {
+    "id": "sch-27-201",
+    "nome": "Emporium - SCH 27 - SELF - 201",
+    "host": "",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-27-202",
+    "nome": "Emporium - SCH 27 - SELF - 202",
+    "host": "",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-27-203",
+    "nome": "Emporium - SCH 27 - SELF - 203",
+    "host": "",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-101",
+    "nome": "Emporium - SCH 37 - PDV - 101",
+    "host": "192.168.37.101",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-102",
+    "nome": "Emporium - SCH 37 - PDV - 102",
+    "host": "192.168.37.102",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-103",
+    "nome": "Emporium - SCH 37 - PDV - 103",
+    "host": "192.168.37.103",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-106",
+    "nome": "Emporium - SCH 37 - PDV - 106",
+    "host": "192.168.37.106",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-107",
+    "nome": "Emporium - SCH 37 - PDV - 107",
+    "host": "192.168.37.107",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-201",
+    "nome": "Emporium - SCH 37 - SELF - 201",
+    "host": "192.168.37.201",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-202",
+    "nome": "Emporium - SCH 37 - SELF - 202",
+    "host": "192.168.37.202",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-37-203",
+    "nome": "Emporium - SCH 37 - SELF - 203",
+    "host": "192.168.37.203",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-50-301",
+    "nome": "Emporium - SCH 50 - PDV Mobile - 301 GPOS720",
+    "host": "10.10.107.9",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-114-201",
+    "nome": "Emporium - SCH 114 - SELF - 201",
+    "host": "192.168.114.201",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-114-202",
+    "nome": "Emporium - SCH 114 - SELF - 202",
+    "host": "192.168.114.202",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  },
+  {
+    "id": "sch-114-203",
+    "nome": "Emporium - SCH 114 - SELF - 203",
+    "host": "192.168.114.203",
+    "usuario": "root",
+    "senha": "emporium",
+    "origem": "emporium",
+    "pos_version": "2.9.2CA"
+  }
+]

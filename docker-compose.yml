@@ -1,0 +1,44 @@
+version: "3.9"
+
+services:
+
+  # ── Backend FastAPI ──────────────────────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pdv-monitor-backend
+    restart: always
+    ports:
+      - "8000:8000"       # Expõe a API diretamente (útil para debug)
+    volumes:
+      - ./backend/pdvs.json:/app/pdvs.json       # PDVs persistem fora do container
+      - ./backend/config.json:/app/config.json   # Credenciais fora do container
+    networks:
+      - pdv-network
+    # Necessário para que o ping funcione dentro do container
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+
+  # ── Frontend React + Nginx ───────────────────────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # Durante o build do React, a URL da API aponta para /api
+        # O Nginx faz o proxy /api → backend:8000
+        VITE_API_URL: /api
+    container_name: pdv-monitor-frontend
+    restart: always
+    ports:
+      - "80:80"           # Dashboard acessível em http://IP-DO-SERVIDOR
+    depends_on:
+      - backend
+    networks:
+      - pdv-network
+
+networks:
+  pdv-network:
+    driver: bridge

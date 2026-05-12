@@ -1,0 +1,24 @@
+{
+  "banco": {
+    "host": "192.168.1.25",
+    "porta": 3306,
+    "banco": "concentrador",
+    "usuario": "econect",
+    "senha": "123456"
+  },
+  "ssh": {
+    "usuario": "root",
+    "senha": "root"
+  },
+  "banco_emporium": {
+    "host": "192.168.1.85",
+    "porta": 3306,
+    "banco": "emporium",
+    "usuario": "emporium",
+    "senha": "emporium"
+  },
+  "ssh_emporium": {
+    "usuario": "root",
+    "senha": "emporium"
+  }
+}
