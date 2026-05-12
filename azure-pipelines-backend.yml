@@ -1,0 +1,46 @@
+trigger:
+  branches:
+    include:
+      - dev
+      - hml
+      - master
+      - main
+  paths:
+    include:
+      - backend/**
+      - azure-pipelines-backend.yml
+
+pool:
+  name: Naos
+
+variables:
+  repositoryName: "monitoramento-pdvs-backend"
+
+steps:
+  - task: Docker@2
+    displayName: "Docker Login"
+    inputs:
+      command: login
+      containerRegistry: "Nexus 3"
+
+  - task: Docker@2
+    displayName: "Build & Push imagem Docker Backend"
+    inputs:
+      command: buildAndPush
+      containerRegistry: "Nexus 3"
+      repository: "$(repositoryName)"
+      dockerfile: "backend/Dockerfile"
+      buildContext: "backend"
+      tags: |
+        $(Build.BuildNumber)
+        latest
+
+  - bash: |
+      echo "$(Build.BuildNumber)" > $(Build.ArtifactStagingDirectory)/image-tag.txt
+    displayName: "Gerar arquivo image-tag.txt"
+
+  - task: PublishBuildArtifacts@1
+    displayName: "Publicar Artifact"
+    inputs:
+      PathtoPublish: "$(Build.ArtifactStagingDirectory)"
+      ArtifactName: "drop"
