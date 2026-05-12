@@ -2,6 +2,7 @@
 
 Ferramenta de monitoramento de Pontos de Venda (PDVs) via SSH.  
 Desenvolvida em Python + FastAPI no backend e React no frontend.
+test de pr
 
 ---
 
@@ -32,15 +33,15 @@ pdv-monitor/
 
 Para cada PDV, o sistema executa:
 
-| # | Etapa | Descrição |
-|---|-------|-----------|
-| 1 | **Ping** | Verifica se o PDV está acessível na rede |
-| 2 | **Conexão SSH** | Abre canal seguro com o PDV |
-| 3 | **Identificar SO** | Detecta Lubuntu, Linux Mint, Ubuntu etc. |
-| 4 | **Verificar inxi** | Checa se inxi já está instalado (`which` + `dpkg`) |
-| 5 | **Instalar inxi** | Executa `sudo apt install inxi` se necessário |
-| 6 | **Coletar info** | Executa `inxi -F` e captura a saída |
-| 7 | **Enviar ao frontend** | Dados disponibilizados via API REST |
+| #   | Etapa                  | Descrição                                          |
+| --- | ---------------------- | -------------------------------------------------- |
+| 1   | **Ping**               | Verifica se o PDV está acessível na rede           |
+| 2   | **Conexão SSH**        | Abre canal seguro com o PDV                        |
+| 3   | **Identificar SO**     | Detecta Lubuntu, Linux Mint, Ubuntu etc.           |
+| 4   | **Verificar inxi**     | Checa se inxi já está instalado (`which` + `dpkg`) |
+| 5   | **Instalar inxi**      | Executa `sudo apt install inxi` se necessário      |
+| 6   | **Coletar info**       | Executa `inxi -F` e captura a saída                |
+| 7   | **Enviar ao frontend** | Dados disponibilizados via API REST                |
 
 > Se o inxi **já estiver instalado** (etapa 4 = verdadeiro), a etapa 5 é pulada automaticamente.
 
@@ -49,6 +50,7 @@ Para cada PDV, o sistema executa:
 ## 🚀 Como Rodar
 
 ### Pré-requisitos
+
 - Python 3.10+
 - Node.js 18+
 
@@ -84,15 +86,15 @@ npm run dev
 
 ## 🔌 API — Rotas Disponíveis
 
-| Método | Rota | Descrição |
-|--------|------|-----------|
-| `GET` | `/pdvs` | Lista todos os PDVs cadastrados |
-| `POST` | `/pdvs` | Adiciona um novo PDV |
-| `DELETE` | `/pdvs/{id}` | Remove um PDV |
-| `POST` | `/monitorar` | Inicia monitoramento de todos os PDVs |
-| `POST` | `/monitorar/{id}` | Monitora um PDV específico |
-| `GET` | `/status` | Retorna status atual (cache) de todos os PDVs |
-| `GET` | `/status/{id}` | Retorna status de um PDV específico |
+| Método   | Rota              | Descrição                                     |
+| -------- | ----------------- | --------------------------------------------- |
+| `GET`    | `/pdvs`           | Lista todos os PDVs cadastrados               |
+| `POST`   | `/pdvs`           | Adiciona um novo PDV                          |
+| `DELETE` | `/pdvs/{id}`      | Remove um PDV                                 |
+| `POST`   | `/monitorar`      | Inicia monitoramento de todos os PDVs         |
+| `POST`   | `/monitorar/{id}` | Monitora um PDV específico                    |
+| `GET`    | `/status`         | Retorna status atual (cache) de todos os PDVs |
+| `GET`    | `/status/{id}`    | Retorna status de um PDV específico           |
 
 ---
 
