@@ -34,13 +34,18 @@ spec:
     spec:
       initContainers:
         - name: init-backend-data
-          image: busybox:1.36
+          image: monitoramento-pdvs-backend:latest
+          imagePullPolicy: Always
           command:
             - sh
             - -c
             - |
-              test -f /data/pdvs.json || echo "[]" > /data/pdvs.json
-              test -f /data/config.json || echo "{}" > /data/config.json
+              if [ ! -s /data/pdvs.json ] || [ "$(tr -d '[:space:]' < /data/pdvs.json)" = "[]" ]; then
+                cp /app/pdvs.json /data/pdvs.json
+              fi
+              if [ ! -s /data/config.json ] || [ "$(tr -d '[:space:]' < /data/config.json)" = "{}" ]; then
+                cp /app/config.json /data/config.json
+              fi
           volumeMounts:
             - name: backend-data
               mountPath: /data

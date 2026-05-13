@@ -1,7 +1,7 @@
-# ── Backend — PDV Monitor ──────────────────────────────────────────────────────
+# Backend - PDV Monitor
 FROM python:3.11-slim
 
-# Instala dependências de sistema necessárias para paramiko e mysql
+# Instala dependencias de sistema necessarias para paramiko e mysql.
 RUN apt-get update && apt-get install -y \
     gcc \
     libssl-dev \
@@ -10,15 +10,15 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
-# Copia e instala dependências Python
+# Copia e instala dependencias Python.
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copia o código do backend
+# Copia o codigo do backend, incluindo config.json e pdvs.json do contexto.
 COPY . .
 
-# Garante que o pdvs.json existe (lista vazia se não existir)
-RUN test -f pdvs.json || echo "[]" > pdvs.json
+# Falha o build se os arquivos de configuracao nao vierem com conteudo.
+RUN test -s pdvs.json && test -s config.json
 
 EXPOSE 8000
 
