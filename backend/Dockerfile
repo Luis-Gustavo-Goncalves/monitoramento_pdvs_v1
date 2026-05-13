@@ -14,7 +14,10 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copia o codigo do backend, incluindo config.json e pdvs.json do contexto.
+# Copia os arquivos de configuracao primeiro para garantir que entrem na imagem.
+COPY pdvs.json config.json ./
+
+# Copia o restante do codigo do backend.
 COPY . .
 
 # Falha o build se os arquivos de configuracao nao vierem com conteudo.

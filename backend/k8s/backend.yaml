@@ -3,18 +3,6 @@ kind: Namespace
 metadata:
   name: monitoramento-pdvs
 ---
-apiVersion: v1
-kind: PersistentVolumeClaim
-metadata:
-  name: monitoramento-pdvs-backend-data
-  namespace: monitoramento-pdvs
-spec:
-  accessModes:
-    - ReadWriteOnce
-  resources:
-    requests:
-      storage: 1Gi
----
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -32,23 +20,6 @@ spec:
       labels:
         app: monitoramento-pdvs-backend
     spec:
-      initContainers:
-        - name: init-backend-data
-          image: monitoramento-pdvs-backend:latest
-          imagePullPolicy: Always
-          command:
-            - sh
-            - -c
-            - |
-              if [ ! -s /data/pdvs.json ] || [ "$(tr -d '[:space:]' < /data/pdvs.json)" = "[]" ]; then
-                cp /app/pdvs.json /data/pdvs.json
-              fi
-              if [ ! -s /data/config.json ] || [ "$(tr -d '[:space:]' < /data/config.json)" = "{}" ]; then
-                cp /app/config.json /data/config.json
-              fi
-          volumeMounts:
-            - name: backend-data
-              mountPath: /data
       containers:
         - name: backend
           image: monitoramento-pdvs-backend:latest
@@ -82,17 +53,6 @@ spec:
             limits:
               cpu: 1000m
               memory: 1Gi
-          volumeMounts:
-            - name: backend-data
-              mountPath: /app/pdvs.json
-              subPath: pdvs.json
-            - name: backend-data
-              mountPath: /app/config.json
-              subPath: config.json
-      volumes:
-        - name: backend-data
-          persistentVolumeClaim:
-            claimName: monitoramento-pdvs-backend-data
 ---
 apiVersion: v1
 kind: Service
