@@ -137,3 +137,4 @@ Com 20 workers e ~15s por PDV, 500 PDVs levam em torno de **4-6 minutos** no tot
 - ✅ Linux Mint
 - ✅ Ubuntu
 - ✅ Debian (e derivados com `apt`)
+- ✅ Slackware
